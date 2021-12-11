@@ -1,0 +1,58 @@
+# MUST BE SINGULAR
+# TODO: Add synonyms for forest: woods
+# Port: shipyard
+# You find an old stone tower
+locations:
+    - dungeon
+    - jail
+    - forest
+    - graveyard
+    - mountain
+    - observatory
+    - orchard
+    - ruin
+    - plain
+    - sanctuary
+    - sewer
+    - moon
+    - mars
+    - star
+    - swamp
+    - valley
+    - temple
+    - desert
+    - city
+    - village
+    - town
+    - port
+    - cave
+    - catacomb
+    - castle
+    - volcano
+    - tower
+    - fortress
+verbs:
+    - stand
+    - rush
+    - go
+    - enter
+    - ride
+    - arrive
+    - reach
+    - walk
+    - visit
+    - climb
+    - run
+    - return
+    - head
+prepositions:
+    - in
+    - towards
+    - into
+    - across
+    - through
+    - over
+    - up
+    - back
+    - to
+    - at

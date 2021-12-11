@@ -1,0 +1,1 @@
+../../../PurchasesHybridCommon/ios/PurchasesHybridCommon/PurchasesHybridCommon/RCEntitlementInfos+HybridAdditions.h

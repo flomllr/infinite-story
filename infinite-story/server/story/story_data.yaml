@@ -1,0 +1,77 @@
+settings:
+  fantasy:
+    postprocess:
+      #From to"
+      izmir: Izir
+      izril: Izir
+    classes:
+      noble:
+        context: "You are <NAME>, a noble living in the kingdom of Izir. You own an entire castle and an army."
+        prompt: "You are awakened by one of your servants who tells you that your keep is under attack. You look out the window and see"
+        location: "Izir"
+        has_grammar: false
+        
+      knight:
+        context: "You are <NAME>, a knight living in the kingdom of Izir. You own a steel longsword and wooden shield."
+        prompt: "You are on a quest to defeat the evil dragon of Izir. You've heard he lives up at the north of the kingdom. You set on the path to defeat him and walk into a dark forest. As you enter the forest you see"
+        location: "Izir"
+        has_grammar: false
+
+      squire:
+        context: "You are <NAME>, a squire living in the kingdom of Izir. You own a spear and a pack of supplies."
+        prompt: "You follow Sir Theo as he enters the forest, he turns to you and says"
+        location: "Izir"
+        has_grammar: false
+
+      wizard:
+        context: "You are <NAME>, a wizard living in the kingdom of Izir. You own a magic staff and a book of spells."
+        prompt: "You finish your long journey and finally arrive at the ruin you've been looking for. You look around and see"
+        location: "Izir"
+        has_grammar: false
+
+      ranger:
+        context: "You are <NAME>, a ranger living in the kingdom of Izir. You own a hunting bow and a quiver of arrows."
+        prompt: "You spot the deer and are ready to finish your hunt when suddenly"
+        location: "Izir"
+        has_grammar: false
+
+      peasant:
+        context: "You are <NAME>, a peasant living in the kingdom of Izir. You own a pitchfork and that's it."
+        prompt: "You wake up and begin working in the fields. You see"
+        location: "Izir"
+        has_grammar: false
+
+      rogue:
+        context: "You are <NAME>, a rogue living in the kingdom of Izir. You own a long steel dagger and a lenght of rope."
+        prompt: "You walk down the city street looking for somewhere to steal from. You look around and see"
+        location: "Izir"
+        has_grammar: false
+
+      orc:
+        context: "You are <NAME>, an orc leading the great army of Grwan to the kingdom of Izir. Your kind had been plotting the extermination of the human race ever since they humiliated your ancestors centuries ago."
+        prompt: "Your army has stopped on a beach close the Great Sea. You are discussing the logistic for the next day with your shamans. One of them tells you"
+        location: "Gwarn"
+        has_grammar: false
+      
+      pirate:
+        context: "You are <NAME>, a pirate serving on a pirate ship on the great sea, a brigantine called \"the Executioners Rose\"."
+        prompt: "You are peacefully sleeping in your hammock, when suddenly you are being woken up by loudly screaming men and cannons being shot. You jump out of your bed and"
+        location: "The Great Sea"
+        has_grammar: false
+
+      cleric:
+        context: "You are <NAME>, a cleric living in the kingdom of Izir. You own an iron mace and a book containing the holy words of your deity."
+        prompt: "You venture the kingdom, going from town to town, trying to convert people to your religion, and helping those in need. One night, you meet an old drunkard who tells you about a demonic cult that resides in the town you've been staying at for the past three days. You seek more informations about this cult, and learn that"
+        location: "Izir"
+        has_grammar: false
+
+      shadow:
+        context: "You are <NAME>, a Shadow from Oros, a constantly flooded land of desolation unbeknownst to most mortals. Shadows are immortal forms of sorcerers whose spells deal with the raising of the dead and the summoning and control of various creatures. Long hours of study in dank mausolea have made your translucent skin pale and corpselike, your figure, skeletal. Most people shun you for your peculiar looks and ways, but none doubt your power, for it is the stuff of nightmares."
+        prompts:
+          - "You and your minions are travelling to the capital of Izir to execute your secret plan involving the mass sacrifice of all the living humans. They have long ignored your warnings issued to their sailors trying to reach Oros in search for riches. It is time for them to pay for their insolence.\n\nYou have been walking with your army in one of the coldest region of Izir for a few days now. Just before dusk, some of your Ghouls found the ruin of an old castle located in a dark forest. You decided that it was best to stop there for a while and establish a base from which to plan the attack of the capital. Your minions start installing the tents while you retreat in a decrepit part of the castle to study maps of the surrounding area.\n\nSuddenly, you hear your squad of Dead Knights coming back from their scouting mission. Their horses look scared. Something must be wrong with this forest. The head of your Dead Knights, Zorr, start shouting when he sees you"
+          - "Your teacher, the Lich himself, ordered you to find the great Orb of Zangdar. It is said to be hidden deep in the snowy mountains of Izir, protected by ancient guardians fretting the arrival of evil entities which will use the Orb for macabre purposes.\nThe Orb is rumored to give godly power to its holder in exchange for slowly consuming his soul.\n\nYou are hiding in the only inn of Gargos, the first human town you found next to the shore. You and your minions decided to stop there to rest and eat after having crossed the Great Sea between Oros and Izir.\nYou are reading the instructions of the Lich once again, when the innkeeper suddenly enters your room. He lets out a scream of terror when seeing your horrible face and your ghost like body. Recognizing who you are, he begs you not to hurt his family and spare the people of Gargos. You say"
+          - "You are dying. Even if the books and your master the Lich promised you immortality for all the sacrifies you have made, you have felt your soul leaving your body for a few winters now.\nThe With Doctors of the Lich can't seem to find what is wrong with you. Other Shadows stay strong for millennia and there is no reason for you to grow weaker at such a young age. You suspect the Royal Wizard of Izir, Fars -- the last student of the powerful Zangdar -- to have cursed you when you left Oros and went to Izir for the last time, a dozen years ago.\nYou thus decided to prepare a ship which will sail to Izir with you and your trusted minions onboard. Your plan is to capture the daughter of Fars and use her as a ransom to force the Royal Wizard to remove the curse.\n\nIt is the night of your departure, and your master The Lich came down to the port to discuss an important matter with you before you leave. He sits next to you and say"
+        location: "Oros"
+        has_grammar: false
+
+

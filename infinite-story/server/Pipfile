@@ -1,0 +1,33 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+flake8 = "*"
+black = "*"
+
+[packages]
+flask = "*"
+tensorflow = "==1.15"
+pyyaml = "*"
+regex = "*"
+requests = "*"
+spacy = "*"
+"celery[redis]" = "*"
+flask-cors = "*"
+sqlalchemy = "*"
+psycopg2 = "==2.6.1"
+jupyter = "*"
+grpcio = "*"
+numpy = "*"
+tensorflow-serving-api = "==1.15.0"
+gunicorn = "*"
+tracery = "*"
+flower = "*"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true

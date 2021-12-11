@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "prod": "pm2 start index.js",
+    "list": "pm2 list",
+    "stop-prod": "pm2 stop index",
+    "logs": "pm2 logs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.11.1",
+    "node-fetch": "^2.6.0",
+    "pm2": "^4.2.1"
+  }
+}

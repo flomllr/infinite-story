@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112107452207",
+    "firebase_url": "https://infinite-story-496b3.firebaseio.com",
+    "project_id": "infinite-story-496b3",
+    "storage_bucket": "infinite-story-496b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112107452207:android:858e1d4b325acb632613da",
+        "android_client_info": {
+          "package_name": "com.infinitestory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112107452207-pja9c5ntatset6mri27r0bo4qobtrrhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_vj-XPZtAvgMcBESg9avUVejYXxNwqnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112107452207-pja9c5ntatset6mri27r0bo4qobtrrhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+../../../PurchasesHybridCommon/ios/PurchasesHybridCommon/PurchasesHybridCommon/RCPackage+HybridAdditions.h

@@ -1,0 +1,26 @@
+{
+  "name": "RNPurchases",
+  "summary": "Cross-platform subscriptions framework for ReactNative",
+  "version": "3.3.1",
+  "authors": {
+    "name": "RevenueCat, Inc."
+  },
+  "homepage": "https://github.com/RevenueCat/react-native-purchases",
+  "license": "MIT",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/RevenueCat/react-native-purchases.git"
+  },
+  "source_files": "ios/**/*.{h,m}",
+  "exclude_files": "ios/Purchases.framework",
+  "dependencies": {
+    "React": [
+
+    ],
+    "PurchasesHybridCommon": [
+      "1.2.0"
+    ]
+  }
+}

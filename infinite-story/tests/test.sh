@@ -1,0 +1,1 @@
+curl --header "Content-Type: application/json" --request POST --data '{"context" : "You are the King of the Middle Earth. Your army is marching south to fight the orcs. Riding on your horse you notice"}' http://localhost:5000/generate
